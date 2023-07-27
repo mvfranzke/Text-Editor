@@ -6,14 +6,22 @@ This is the 18th assignment or challenge for our bootcamp class. Our assignment 
 
 ## Installation
 
+Install babel plugin
+```npm install @babel/plugin-proposal-object-rest-spread```
 
+Run ```npm install``` to ensure all dependencies are up to date
+
+Run ```npm run build```to ensure no unresolved issues
+
+To start the application from the root directory```npm run start```
 
 ## Usage
 
 URL of Github repository : https://github.com/mvfranzke/Text-Editor
 
-Heroku Deployed Link: 
+Heroku Deployed Link: https://text-editor-mvfranzke-e81c02cd9b74.herokuapp.com/
 
+![heroku page](/Develop/Assets/heroku%20screenshot.jpg)
 
 ## User Story
 
