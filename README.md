@@ -65,10 +65,11 @@ THEN I should have proper build scripts for a webpack application
 
 Please see below additional resources:
 
-* https://mongoosejs.com/docs/
-* https://nodejs.org/en/docs
-* https://stackoverflow.com/questions/7443142/how-do-i-format-dates-from-mongoose-in-node-js
-* https://www.mongodb.com/community/forums/
+* https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+* https://www.youtube.com/watch?v=IZGNcSuwBZs
+* https://webpack.js.org/concepts/
+* https://www.freecodecamp.org/news/an-intro-to-webpack-what-it-is-and-how-to-use-it-8304ecdc3c60/
+
 
 
 ## License
