@@ -21,7 +21,7 @@ URL of Github repository : https://github.com/mvfranzke/Text-Editor
 
 Heroku Deployed Link: https://text-editor-mvfranzke-e81c02cd9b74.herokuapp.com/
 
-![heroku page](/Develop/Assets/heroku%20screenshot.jpg)
+![heroku page](/Assets/heroku%20screenshot.jpg)
 
 ## User Story
 
